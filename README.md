@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi minasan, I'm Manda 
+## About me :
+- 🔭 I’m currently school at [SMK N 2 Semarang] 
+- 🌱 I’m currently learning JavaScript, Html, Css
+
+
+
+
 
 <!--
 **amandawihanqirania/amandawihanqirania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
