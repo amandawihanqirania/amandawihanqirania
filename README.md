@@ -1,5 +1,5 @@
 ### Hi minasan, I'm Manda 
-## About me :
+## ma portofolio [click here](https://mansite.vercel.app/) 
 - 🔭 I’m currently school at [SMK N 2 Semarang] 
 - 🌱 I’m currently learning JavaScript, Html, Css
 
